@@ -1,0 +1,27 @@
+{
+  "name": "reactjs-basics",
+  "version": "1.0.0",
+  "description": "some basic reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactjs"
+  ],
+  "author": "Gabriel",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {
+    "ba": "0.0.5",
+    "babel-loader": "^8.0.4",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "webpack": "^4.28.2",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
